@@ -109,7 +109,7 @@ export default function Hero() {
       </div>
 
       {/* IMAGE */}
-      <div data-blobity-tooltip="Soft man">
+      <div data-blobity-tooltip="Techy guy">
         <motion.div
           ref={imgRef}
           style={{ rotate }}

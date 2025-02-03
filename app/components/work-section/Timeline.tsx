@@ -8,10 +8,10 @@ const syne = Syne({ subsets: ["latin"] });
 const TimelineData = [
   {
     companyImg: "/GoPool.png",
-    jobTitle: "Software Engineer Intern",
+    jobTitle: "Software Developer Intern",
     company: "GoPool",
     jobType: "Internship",
-    duration: "June 2024 - Present",
+    duration: "June 2024 - Jan 2025",
     stuffIDid: [
       "Contributing to the development and enhancement of the company's landing page and frontend websites using ReactJS, JavaScript, and Tailwind CSS.",
       "Deploying and hosting web applications on AWS, ensuring scalability and reliability.",

@@ -10,7 +10,7 @@ import { ViewProvider } from "@/contexts/ViewContext";
 const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Agrawal Kush — Software Engineer - Frontend",
+  title: "Kush Agrawal— Software Engineer",
   description:
     "A dedicated Frontend Engineer with a knack for building innovative software solutions. I create intuitive user experiences that merge design and functionality, transforming concepts into polished digital products. Passionate about delivering seamless and engaging interfaces, I drive impact through thoughtful development and creative problem-solving.",
   keywords: [
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     "portfolio",
   ],
   openGraph: {
-    title: "Agrawal Kush — Software Engineer - Frontend",
+    title: "Kush Agrawal — Software Engineer",
     description:
       "A dedicated Frontend Engineer with a knack for building innovative software solutions. I create intuitive user experiences that merge design and functionality, transforming concepts into polished digital products. Passionate about delivering seamless and engaging interfaces, I drive impact through thoughtful development and creative problem-solving.",
     locale: "en-US",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Agrawal Kush — Software Engineer",
+    title: "Kush Agrawal — Software Engineer",
     description:
       "A dedicated Frontend Engineer with a knack for building innovative software solutions. I create intuitive user experiences that merge design and functionality, transforming concepts into polished digital products. Passionate about delivering seamless and engaging interfaces, I drive impact through thoughtful development and creative problem-solving.",
   },

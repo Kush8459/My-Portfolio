@@ -69,10 +69,22 @@ export default function About() {
               charSpace={"mr-[0.001em]"}
               className="font-bold antialiased text-xl md:text-2xl mb-2"
             >
+              Programming Languages
+            </AnimatedTitle>
+            <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
+              C/C++, Java, Python, C#/.NET, SQL, JavaScript, TypeScript
+            </AnimatedBody>
+          </div>
+          <div>
+            <AnimatedTitle
+              wordSpace={"mr-[0.5ch]"}
+              charSpace={"mr-[0.001em]"}
+              className="font-bold antialiased text-xl md:text-2xl mb-2"
+            >
               Frontend Tools
             </AnimatedTitle>
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
-              JavaScript, React, Redux, Redux Toolkit, HTML5, Git/GitHub, React
+              JavaScript, React, Redux, Redux Toolkit, HTML5, React
               Hook.
             </AnimatedBody>
           </div>
@@ -87,6 +99,19 @@ export default function About() {
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
               CSS3/SCSS/SASS, Tailwind CSS, Styled Components, Framer Motion,
               Bootstrap.
+            </AnimatedBody>
+          </div>
+          <div>
+            <AnimatedTitle
+              wordSpace={"mr-[0.5ch]"}
+              charSpace={"mr-[0.001em]"}
+              className="font-bold antialiased text-xl md:text-2xl mb-2"
+            >
+              Familiar With
+            </AnimatedTitle>
+            <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
+              Data Strutures and algorithms, Object-Oriented Programming,
+              RESTful APIs, Agile Methodologies, Git and Github, Version Control, DBMS, OS.
             </AnimatedBody>
           </div>
         </div>

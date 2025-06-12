@@ -7,6 +7,19 @@ const syne = Syne({ subsets: ["latin"] });
 
 const TimelineData = [
   {
+    companyImg: "/stealth.png",
+    jobTitle: "Software Developer Intern",
+    company: "Aspirify Enterprises Private Limited",
+    jobType: "Internship",
+    duration: "March 2025 - Present",
+    stuffIDid: [
+      "Tech Stack: C#, .NET, JavaScript, Reactjs, SQL.",
+      "Collaborated with the React.js team to design and implement intuitive dashboards for visualizing parsed data.",
+      "Developed and optimized custom parsers to extract structured information from various email formats. Built a Gmail parser that decoded raw email data (MIME format) for structured storage and retrieval.",
+      "Worked closely with full stack engineers, backend developers, and frontend designers to ensure accurate data representation and smooth integration."
+    ],
+  },
+  {
     companyImg: "/GoPool.png",
     jobTitle: "Software Developer Intern",
     company: "GoPool",

@@ -27,7 +27,13 @@ export default function Works() {
       liveLink: "https://movix-sable.vercel.app/",
       about:
         "Designed and built a dynamic movie and TV show rating platform where users can explore a vast collection of titles, share their opinions through ratings and reviews, and discover trending content. Implemented an intuitive user interface for seamless navigation, ensuring an engaging and interactive experience.",
-      stack: ["React.js", "javascript", "tailwindcss", "Redux"],
+      stack: [
+        "React.js",
+        "javascript",
+        "tailwindcss",
+        "React Query",
+        "Zustand",
+      ],
       img: "/movixProject.png",
     },
     {
@@ -38,6 +44,23 @@ export default function Works() {
         "Built a cryptocurrency tracking app that enables users to explore real-time token prices, interactive charts, and the latest news in the crypto market. Integrated API support for live data updates, ensuring accurate market insights. Designed a user-friendly interface for seamless navigation and enhanced user experience.",
       stack: ["React.js", "javascript", "tailwindcss", "Redux"],
       img: "/cryptoProject.png",
+    },
+    {
+      title: "Chaty",
+      gitLink: "https://github.com/Kush8459/fullstack_chat_app",
+      about:
+        "Developed a real-time chat application inspired by WhatsApp, enabling users to send and receive messages instantly through a clean, mobile-responsive interface. Implemented secure user authentication, WebSocket-based real-time messaging, and end-to-end encryption for safe communication. Used MongoDB for scalable data storage, Express.js for backend APIs, and React.js for dynamic UI rendering.",
+      stack: ["React.js", "JavaScript", "Node.js", "Express.js", "MongoDB"],
+      img: "/chaty.png",
+    },
+    {
+      title: "Quack",
+      gitLink: "https://github.com/Kush8459/social-media-web",
+      liveLink: "https://social-media-web-nine.vercel.app/",
+      about:
+        "Built a full-stack social media platform supporting post creation, commenting, and user profile management. Integrated JWT-based authentication and RESTful APIs for secure user login, post interactions, and relationship management. Designed an interactive UI using React and Redux, enhancing engagement with features like likes, profile editing, and threaded comments.",
+      stack: ["React.js", "Redux", "Node.js", "Express.js", "JavaScript"],
+      img: "/quack.png",
     },
     {
       title: "Hotelo",

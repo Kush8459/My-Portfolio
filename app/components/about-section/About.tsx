@@ -53,7 +53,7 @@ export default function About() {
             <Link
               className="underline"
               href={
-                "https://drive.google.com/file/d/1QdYb_l87tKnI150ktxWrUNgaOjg-9RTp/view?usp=sharing"
+                "https://drive.google.com/file/d/1HdmAOQrU0EkuOaI10-2fpRLyLgadkw93/view?usp=sharing"
               }
             >
               my résumè
@@ -84,8 +84,8 @@ export default function About() {
               Frontend Tools
             </AnimatedTitle>
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
-              JavaScript, React, Redux, Redux Toolkit, HTML5, React
-              Hook.
+              JavaScript, React, Redux, React query, Zustand, HTML5, React
+              Hooks.
             </AnimatedBody>
           </div>
           <div>
@@ -111,7 +111,7 @@ export default function About() {
             </AnimatedTitle>
             <AnimatedBody className="text-white/60 text-base md:text-xl leading-8">
               Data Strutures and algorithms, Object-Oriented Programming,
-              RESTful APIs, Agile Methodologies, Git and Github, Version Control, DBMS, OS.
+              RESTful APIs, Agile Methodologies, Git and Github, Version Control, DBMS, OS, Claude code, Cursor.
             </AnimatedBody>
           </div>
         </div>

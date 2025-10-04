@@ -7,18 +7,34 @@ const syne = Syne({ subsets: ["latin"] });
 
 const TimelineData = [
   {
-    companyImg: "/stealth.png",
-    jobTitle: "Software Developer Intern",
-    company: "Aspirify Enterprises Private Limited",
-    jobType: "Internship",
-    duration: "March 2025 - Present",
-    stuffIDid: [
-      "Tech Stack: C#, .NET, JavaScript, Reactjs, SQL.",
-      "Collaborated with the React.js team to design and implement intuitive dashboards for visualizing parsed data.",
-      "Developed and optimized custom parsers to extract structured information from various email formats. Built a Gmail parser that decoded raw email data (MIME format) for structured storage and retrieval.",
-      "Worked closely with full stack engineers, backend developers, and frontend designers to ensure accurate data representation and smooth integration."
-    ],
-  },
+  companyImg: "/stealth.png",
+  jobTitle: "Software Engineer",
+  company: "Aspirify Enterprises Private Limited",
+  jobType: "Full-Time",
+  duration: "August 2025 - Present",
+  stuffIDid: [
+    "Tech Stack: C#, .NET, JavaScript, Reactjs, SQL.",
+    "Worked on reverse engineering complex and unstructured data sources to extract, clean, and convert them into structured formats for internal systems.",
+    "Built and optimized parsers to decode data from diverse sources such as social media platforms, payment applications, and machine-generated logs.",
+    "Enhanced existing data pipelines for higher scalability, accuracy, and fault tolerance, ensuring reliable data flow across multiple services.",
+    "Developed solutions to handle encrypted and nested data formats, improving automation and reducing manual intervention.",
+    "Collaborated with mobile teams to ensure compatibility of data modules across Android and iOS devices.",
+    "Contributed to architectural decisions and debugging critical issues impacting large-scale data ingestion and transformation workflows."
+  ],
+},
+{
+  companyImg: "/stealth.png",
+  jobTitle: "Software Developer Intern",
+  company: "Aspirify Enterprises Private Limited",
+  jobType: "Internship",
+  duration: "March 2025 - July 2025",
+  stuffIDid: [
+    "Tech Stack: C#, .NET, JavaScript, Reactjs, SQL.",
+    "Collaborated with the React.js team to design and implement intuitive dashboards for visualizing parsed data.",
+    "Developed and optimized custom parsers to extract structured information from various email formats. Built a Gmail parser that decoded raw email data (MIME format) for structured storage and retrieval.",
+    "Worked closely with full stack engineers, backend developers, and frontend designers to ensure accurate data representation and smooth integration."
+  ],
+},
   {
     companyImg: "/GoPool.png",
     jobTitle: "Software Developer Intern",
